@@ -1,4 +1,13 @@
-# A Key Performance Indicator (KPI) is a measurable value that demonstrates how effectively an organization is achieving key business objectives. 
+A Key Performance Indicator (KPI) is a measurable value that demonstrates how effectively an organization is achieving key business objectives. 
 Organizations use KPIs at multiple levels to evaluate their success at reaching targets. 
 - High-level KPIs may focus on the overall performance of the enterprise, 
 - while low-level KPIs may focus on processes in departments such as sales, marketing, HR, or support.
+
+
+Key Characteristics of KPIs:
+
+- Specific: KPIs should be clear and specific to avoid misinterpretation.
+- Measurable: They must be quantifiable so that performance can be tracked over time.
+- Achievable: KPIs should be realistic and attainable to encourage improvement.
+- Relevant: They must align with the business objectives and goals.
+- Time-bound: KPIs should be set within a specific timeframe to track progress.
